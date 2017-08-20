@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\WODGenerator\WODGenerator\bin\Debug\netcoreapp2.0\WODGenerator.deps.json
+C:\Users\User\source\repos\WODGenerator\WODGenerator\bin\Debug\netcoreapp2.0\WODGenerator.runtimeconfig.json
+C:\Users\User\source\repos\WODGenerator\WODGenerator\bin\Debug\netcoreapp2.0\WODGenerator.runtimeconfig.dev.json
+C:\Users\User\source\repos\WODGenerator\WODGenerator\bin\Debug\netcoreapp2.0\WODGenerator.dll
+C:\Users\User\source\repos\WODGenerator\WODGenerator\bin\Debug\netcoreapp2.0\WODGenerator.pdb
+C:\Users\User\source\repos\WODGenerator\WODGenerator\obj\Debug\netcoreapp2.0\WODGenerator.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\WODGenerator\WODGenerator\obj\Debug\netcoreapp2.0\WODGenerator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WODGenerator\WODGenerator\obj\Debug\netcoreapp2.0\WODGenerator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WODGenerator\WODGenerator\obj\Debug\netcoreapp2.0\WODGenerator.AssemblyInfo.cs
+C:\Users\User\source\repos\WODGenerator\WODGenerator\obj\Debug\netcoreapp2.0\WODGenerator.dll
+C:\Users\User\source\repos\WODGenerator\WODGenerator\obj\Debug\netcoreapp2.0\WODGenerator.pdb
+C:\Users\User\source\repos\WODGenerator\WODGenerator\bin\Debug\netcoreapp2.0\WODGenerator.Constants.dll
+C:\Users\User\source\repos\WODGenerator\WODGenerator\bin\Debug\netcoreapp2.0\WODGenerator.Constants.pdb

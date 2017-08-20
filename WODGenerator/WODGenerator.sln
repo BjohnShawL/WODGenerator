@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WODGenerator", "WODGenerator\WODGenerator.csproj", "{60BA517F-CF5B-45D4-84B1-6D4CD258A2CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WODGenerator.Constants", "WODGenerator.Constants\WODGenerator.Constants.csproj", "{AE5FC4D3-2F3A-4BAD-AADE-8FE3DE7AAAAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60BA517F-CF5B-45D4-84B1-6D4CD258A2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60BA517F-CF5B-45D4-84B1-6D4CD258A2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60BA517F-CF5B-45D4-84B1-6D4CD258A2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60BA517F-CF5B-45D4-84B1-6D4CD258A2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5FC4D3-2F3A-4BAD-AADE-8FE3DE7AAAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5FC4D3-2F3A-4BAD-AADE-8FE3DE7AAAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5FC4D3-2F3A-4BAD-AADE-8FE3DE7AAAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5FC4D3-2F3A-4BAD-AADE-8FE3DE7AAAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A60E9665-E23C-4268-A64F-5F19DE87F6D6}
+	EndGlobalSection
+EndGlobal

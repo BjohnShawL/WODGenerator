@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\WODGenerator\WODGenerator.Constants\bin\Debug\netcoreapp2.0\WODGenerator.Constants.deps.json
+C:\Users\User\source\repos\WODGenerator\WODGenerator.Constants\bin\Debug\netcoreapp2.0\WODGenerator.Constants.dll
+C:\Users\User\source\repos\WODGenerator\WODGenerator.Constants\bin\Debug\netcoreapp2.0\WODGenerator.Constants.pdb
+C:\Users\User\source\repos\WODGenerator\WODGenerator.Constants\obj\Debug\netcoreapp2.0\WODGenerator.Constants.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\WODGenerator\WODGenerator.Constants\obj\Debug\netcoreapp2.0\WODGenerator.Constants.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WODGenerator\WODGenerator.Constants\obj\Debug\netcoreapp2.0\WODGenerator.Constants.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WODGenerator\WODGenerator.Constants\obj\Debug\netcoreapp2.0\WODGenerator.Constants.AssemblyInfo.cs
+C:\Users\User\source\repos\WODGenerator\WODGenerator.Constants\obj\Debug\netcoreapp2.0\WODGenerator.Constants.dll
+C:\Users\User\source\repos\WODGenerator\WODGenerator.Constants\obj\Debug\netcoreapp2.0\WODGenerator.Constants.pdb
